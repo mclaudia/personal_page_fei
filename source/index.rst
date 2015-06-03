@@ -3,15 +3,36 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to mclaudia/personal_page_fei's documentation!
-======================================================
+Welcome to mclaudia/personal_page_fei's!
+=======================================
+
+Formação
+==========
+
+Doutorado em Engenharia Elétrica com ênfase em Engenharia Biomédica pela Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC / UNICAMP, Campinas em 2000.
+
+Mestrado em Engenharia Elétrica com ênfase em automação pela Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC / UNICAMP, Campinas em 1996.
+
+Graduação em Engenharia Elétrica com ênfase em eletrônica pela Escola de Engenharia do Instituto Mauá de Tecnologia - IMT, São Caetano do Sul, em 1992.
+
+Currículo Lattes: http://lattes.cnpq.br/7429780004238103
+
+=============
+Posição Atual
+=============
+
+Professor Adjunto I
+Dedicação em Tempo Integral
+Departamento de Engenharia Elétrica
+Centro Universitário da FEI
+
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-   intro
+   projetos
 
 
 
