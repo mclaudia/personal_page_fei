@@ -6,6 +6,13 @@
 Maria Claudia Personal Page!
 ============================
 
+.. image:: _static/mclaudia.jpg
+   :height: 300 px
+   :width: 200 px
+   :scale: 50 %
+   :alt: foto
+   :align: right
+
 Formação
 ==========
 
