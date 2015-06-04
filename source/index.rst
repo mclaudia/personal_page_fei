@@ -33,6 +33,21 @@ Dedicação em Tempo Integral
 Departamento de Engenharia Elétrica
 Centro Universitário da FEI
 
+=======
+Contato
+=======
+
+|  Maria Claudia Ferrari de Castro
+|  Centro Universitário da FEI
+|  Departamento de Engenharia Elétrica
+|
+|  Av. Humberto de A. C. Branco, 3.972
+|  São Bernardo do Campo - SP - Brasil
+|  09850-901
+|  Fone:(11)4353-2900
+|
+|  e-mail: mclaudia@fei.edu.br  
+|
 
 Contents:
 
