@@ -41,6 +41,7 @@ Contents:
 
    projetos
    ensino
+   publicacoes
 
 
 
