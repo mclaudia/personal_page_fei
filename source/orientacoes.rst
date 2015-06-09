@@ -5,13 +5,13 @@ Orientações
 Concluídas
 ======
 
-Trabalho de Conclusão de Curso (TCC) - Orientador - 34
-Trabalho de Conclusão de Curso (TCC) - Co-Orientador - 1
-Iniciação Científica (IC) - 31
-Iniciação Didática (ID) - 04
-Mestrado - Orientador - 01
-Mestrado - Co-Orientador - 01
-
+| Trabalho de Conclusão de Curso (TCC) - Orientador - 34
+| Trabalho de Conclusão de Curso (TCC) - Co-Orientador - 1
+| Iniciação Científica (IC) - 31
+| Iniciação Didática (ID) - 04
+| Mestrado - Orientador - 01
+| Mestrado - Co-Orientador - 01
+| 
 
 
 ======
