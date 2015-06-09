@@ -1,9 +1,9 @@
 Publicações
 ===========
 
-=====================
+======================
 Artigos em Periódicos
-=====================
+======================
 
 CASTRO, M. C. F.; CLIQUET JR, Alberto. :download:`"Estimulação Elétrica Neuromuscular e Estimulação Eletrotáctil na Restauração Artificial da Preensão e da Propriocepção em Tetraplégicos" <_static/periodicos/2001_Acta_Ortopedica.pdf>` . Acta Ortopédica Brasileira, v.9, p.19 - 28, 2001.
 

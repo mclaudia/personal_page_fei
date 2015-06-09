@@ -44,7 +44,7 @@ Contato
 |  Av. Humberto de A. C. Branco, 3.972
 |  São Bernardo do Campo - SP - Brasil
 |  09850-901
-|  Fone:(11)4353-2900
+|  Fone:(11)4353-2900    R.2224
 |
 |  e-mail: mclaudia@fei.edu.br  
 |
@@ -53,9 +53,10 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
-   projetos
+   
    ensino
+   projetos
+   orientacoes
    publicacoes
 
 
