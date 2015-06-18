@@ -5,10 +5,14 @@ Publicações
 Totais 
 ======
 
-08 - Artigos em Periódicos
-21 - Artigos em Congressos
-09 - Resumos expandidos em Congressos
-55 - Resumos em Congressos
+.. csv-table::
+   :header: "Descrição", "Quantidade"
+   :widths: 20, 5
+
+	"Artigos em Periódicos", 08
+	"Artigos em Congressos", 21
+	"Resumos expandidos em Congressos", 09
+	"Resumos em Congressos", 55
 
 
 ======================
