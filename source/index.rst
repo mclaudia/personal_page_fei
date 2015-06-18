@@ -16,37 +16,39 @@ Maria Claudia Personal Page!
 Formação
 ==========
 
-Doutorado em Engenharia Elétrica com ênfase em Engenharia Biomédica pela Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC / UNICAMP, Campinas em 2000.
-
-Mestrado em Engenharia Elétrica com ênfase em automação pela Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC / UNICAMP, Campinas em 1996.
-
-Graduação em Engenharia Elétrica com ênfase em eletrônica pela Escola de Engenharia do Instituto Mauá de Tecnologia - IMT, São Caetano do Sul, em 1992.
-
-Currículo Lattes: http://lattes.cnpq.br/7429780004238103
+| Doutorado em Engenharia Elétrica com ênfase em Engenharia Biomédica pela Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC / UNICAMP, Campinas em 2000.
+| Tese: "Desenvolvimento e Aplicação de um Sistema para Reabilitação Sensoriomotora de Membros Superiores Paralisados" - http://www.bibliotecadigital.unicamp.br/document/?code=vtls000202800
+|
+| Mestrado em Engenharia Elétrica com ênfase em automação pela Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC / UNICAMP, Campinas em 1996.
+| Dissertação: "Uma Luva Instrumentalizada para Tetraplégicos" - http://www.bibliotecadigital.unicamp.br/document/?code=vtls000104125
+|
+| Graduação em Engenharia Elétrica com ênfase em eletrônica pela Escola de Engenharia do Instituto Mauá de Tecnologia - IMT, São Caetano do Sul, em 1992.
+|
+| Currículo Lattes: http://lattes.cnpq.br/7429780004238103
 
 =============
 Posição Atual
 =============
 
-Professor Adjunto I
-Dedicação em Tempo Integral
-Departamento de Engenharia Elétrica
-Centro Universitário da FEI
+| Professor Adjunto I
+| Dedicação em Tempo Integral
+| Departamento de Engenharia Elétrica
+| Centro Universitário da FEI
 
 =======
 Contato
 =======
 
-|  Maria Claudia Ferrari de Castro
-|  Centro Universitário da FEI
-|  Departamento de Engenharia Elétrica
+| Maria Claudia Ferrari de Castro
+| Centro Universitário da FEI
+| Departamento de Engenharia Elétrica
 |
-|  Av. Humberto de A. C. Branco, 3.972
-|  São Bernardo do Campo - SP - Brasil
-|  09850-901
-|  Fone:(11)4353-2900    R.2224
+| Av. Humberto de A. C. Branco, 3.972
+| São Bernardo do Campo - SP - Brasil
+| 09850-901
+| Fone:(11)4353-2900    R.2224
 |
-|  e-mail: mclaudia@fei.edu.br  
+| e-mail: mclaudia@fei.edu.br  
 |
 
 Contents:
