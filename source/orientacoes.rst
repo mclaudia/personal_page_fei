@@ -5,21 +5,25 @@ Orientações
 Concluídas
 ==========
 
-34 - Trabalhos de Conclusão de Curso (TCC) - Orientador
-03 - Trabalhos de Conclusão de Curso (TCC) - Co-Orientador
-31 - Iniciações Científicas (IC)
-04 - Iniciações Didáticas (ID)
-01 - Mestrados - Orientador
-01 - Mestrados - Co-Orientador 
-| 
+.. csv-table::
+   :header: "Descrição", "Quantidade"
+   :widths: 20, 5
+
+	"Trabalhos de Conclusão de Curso (TCC) - Orientador", 34
+	"Trabalhos de Conclusão de Curso (TCC) - Co-Orientador", 03
+	"Iniciações Científicas (IC)", 31
+	"Iniciações Didáticas (ID)", 04
+	"Mestrados - Orientador", 01
+	"Mestrados - Co-Orientador ", 01
+
 
 ======
 Atuais
 ======
 
-------------------------------------
+-------------------------------------
 Trabalhos de Conclusão de Curso (TCC)
-------------------------------------
+-------------------------------------
 
 Prótese Mioelétrica de Mão - Lucas Laurino Ortiz; Flávio Enrico Bergamaschi; Gizlainy Cardoso Airão;	Lais Lara Moreira Ribeiro	
 
