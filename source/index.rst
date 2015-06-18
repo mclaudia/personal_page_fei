@@ -25,6 +25,7 @@ Formação
 | Graduação em Engenharia Elétrica com ênfase em eletrônica pela Escola de Engenharia do Instituto Mauá de Tecnologia - IMT, São Caetano do Sul, em 1992.
 |
 | Currículo Lattes: http://lattes.cnpq.br/7429780004238103
+| 
 
 =============
 Posição Atual
@@ -34,6 +35,7 @@ Posição Atual
 | Dedicação em Tempo Integral
 | Departamento de Engenharia Elétrica
 | Centro Universitário da FEI
+| 
 
 =======
 Contato
