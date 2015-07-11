@@ -17,12 +17,10 @@ Formação
 ==========
 
 | **Doutorado em Engenharia Elétrica com ênfase em Engenharia Biomédica pela Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC / UNICAMP, Campinas em 2000.**
-| *Tese: "Desenvolvimento e Aplicação de um Sistema para Reabilitação Sensoriomotora de Membros Superiores Paralisados"*
-| http://www.bibliotecadigital.unicamp.br/document/?code=vtls000202800
+| Tese: `Desenvolvimento e Aplicação de um Sistema para Reabilitação Sensoriomotora de Membros Superiores Paralisados <http://www.bibliotecadigital.unicamp.br/document/?code=vtls000202800>`_.
 |
 | **Mestrado em Engenharia Elétrica com ênfase em automação pela Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC / UNICAMP, Campinas em 1996.**
-| *Dissertação: "Uma Luva Instrumentalizada para Tetraplégicos"*
-| http://www.bibliotecadigital.unicamp.br/document/?code=vtls000104125
+| Dissertação: `Uma Luva Instrumentalizada para Tetraplégicos <http://www.bibliotecadigital.unicamp.br/document/?code=vtls000104125>`_.
 |
 | **Graduação em Engenharia Elétrica com ênfase em eletrônica pela Escola de Engenharia do Instituto Mauá de Tecnologia - IMT, São Caetano do Sul, em 1992.**
 |
