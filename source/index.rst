@@ -14,7 +14,7 @@ Maria Claudia Personal Page!
    :align: right
 
 Formação
-==========
+========
 
 | **Doutorado em Engenharia Elétrica com ênfase em Engenharia Biomédica pela Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC / UNICAMP, Campinas em 2000.**
 | Tese: `Desenvolvimento e Aplicação de um Sistema para Reabilitação Sensoriomotora de Membros Superiores Paralisados <http://www.bibliotecadigital.unicamp.br/document/?code=vtls000202800>`_.

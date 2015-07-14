@@ -9,12 +9,12 @@ Concluídas
    :header: "Descrição", "Quantidade"
    :widths: 20, 5
 
-	"Trabalhos de Conclusão de Curso (TCC) - Orientador", 34
-	"Trabalhos de Conclusão de Curso (TCC) - Co-Orientador", 03
-	"Iniciações Científicas (IC)", 31
-	"Iniciações Didáticas (ID)", 04
-	"Mestrados - Orientador", 01
-	"Mestrados - Co-Orientador ", 01
+    "Trabalhos de Conclusão de Curso (TCC) - Orientador", 34
+    "Trabalhos de Conclusão de Curso (TCC) - Co-Orientador", 03
+    "Iniciações Científicas (IC)", 31
+    "Iniciações Didáticas (ID)", 04
+    "Mestrados - Orientador", 01
+    "Mestrados - Co-Orientador ", 01
 
 
 ======
@@ -69,8 +69,8 @@ Desenvolvimento de Estimulador Elétrico Neuromuscular para Membros Inferiores d
 
 Desenvolvimento e Avaliação de Neuroestimuladores para Reabilitação Motora de Hemiplégicos - Bruno Ferreira Kague 
 
-----------
+---------
 Doutorado
-----------
+---------
 
 Experiências Tácteis no Reconhecimento de Objetos em Deficientes Visuais e o Mapeamento Cerebral - Lídia Takako Cachonis

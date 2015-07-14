@@ -9,15 +9,15 @@ Totais
    :header: "Descrição", "Quantidade"
    :widths: 20, 5
 
-	"Artigos em Periódicos", 08
-	"Artigos em Congressos", 21
-	"Resumos expandidos em Congressos", 09
-	"Resumos em Congressos", 55
+    "Artigos em Periódicos", 08
+    "Artigos em Congressos", 21
+    "Resumos expandidos em Congressos", 09
+    "Resumos em Congressos", 55
 
 
-======================
+=====================
 Artigos em Periódicos
-======================
+=====================
 
 CASTRO, MARIA CLAUDIA ; ARJUNAN, SRIDHAR P ; KUMAR, DINESH K . “Selection of suitable hand gestures for reliable myoelectric human computer interface". Biomedical Engineering Online. v. 14(30), p. 1-11, 2015. DOI: http://dx.doi.org/10.1186/s12938-015-0025-5
 
