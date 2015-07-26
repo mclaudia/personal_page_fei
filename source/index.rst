@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Maria Claudia Personal Page!
+Maria Claudia - Página Pessoal!
 ============================
 
 .. image:: _static/mclaudia.jpg
@@ -53,7 +53,7 @@ Contato
 | e-mail: mclaudia@fei.edu.br  
 |
 
-Contents:
+Conteúdos:
 
 .. toctree::
    :maxdepth: 2
@@ -65,8 +65,8 @@ Contents:
 
 
 
-Indices and tables
-==================
+Índices and tabelas
+===================
 
 * :ref:`genindex`
 * :ref:`modindex`

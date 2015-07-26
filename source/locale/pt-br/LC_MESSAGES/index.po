@@ -51,7 +51,7 @@ msgstr ""
 
 #: ../../source/index.rst:27
 msgid "Currículo Lattes: http://lattes.cnpq.br/7429780004238103"
-msgstr "Curriculum Lattes: http://lattes.cnpq.br/7429780004238103"
+msgstr ""
 
 #: ../../source/index.rst:32
 msgid "Posição Atual"
@@ -75,7 +75,7 @@ msgstr ""
 
 #: ../../source/index.rst:42
 msgid "Contato"
-msgstr "Contact"
+msgstr ""
 
 #: ../../source/index.rst:44
 msgid "Maria Claudia Ferrari de Castro"
@@ -115,12 +115,21 @@ msgstr ""
 
 #: ../../source/index.rst:7
 msgid "Maria Claudia - Página Pessoal!"
-msgstr "Maria Claudia Personal Page!"
+msgstr ""
 
 #: ../../source/index.rst:56
 msgid "Conteúdos:"
-msgstr "Contents:"
+msgstr ""
 
 #: ../../source/index.rst:69
 msgid "Índices and tabelas"
-msgstr "Indices and tables"
+msgstr ""
+
+#~ msgid "Maria Claudia Personal Page!"
+#~ msgstr ""
+
+#~ msgid "Contents:"
+#~ msgstr ""
+
+#~ msgid "Indices and tables"
+#~ msgstr ""
