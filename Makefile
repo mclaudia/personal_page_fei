@@ -53,6 +53,7 @@ clean:
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	$(SPHINXBUILD) -b html -D language='en' $(ALLSPHINXOPTS) $(BUILDDIR)/html/en
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 

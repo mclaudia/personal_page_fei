@@ -1,8 +1,21 @@
 {% extends "!layout.html" %}
 
-{% block footer %} 
-<div style="position:fixed;padding:10px;bottom:15px;left:90px;background:#343131;z-index:1000;">
-    {# <a href="/">pt</a>&nbsp;<a href="/en">en</a> #}
-</div>
+{% block extrahead %}
+<style type="text/css">
+.flag {
+    width: 25px;
+    height: 15px;
+    background:url(_static/flags.png) no-repeat
+}
 
+.flag.flag-br {background-position: -25px 0}
+.flag.flag-us {background-position: 0 -15px}
+</style>
+{% endblock %}
+
+{% block footer %} 
+<div style="position:fixed;padding:5px;bottom:10px;left:90px;background:#343131;z-index:1000;">
+    <a href="/"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="flag flag-br" alt="Portuguese" /></a>&nbsp;
+    <a href="/en"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="flag flag-us" alt="English" /></a>
+</div>
 {% endblock %}
