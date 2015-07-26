@@ -1,0 +1,116 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Maria Claudia Personal Page 0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-26 16:54-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/ensino.rst:2
+msgid "Ensino"
+msgstr ""
+
+#: ../../source/ensino.rst:6
+msgid "Disciplinas de Graduação"
+msgstr ""
+
+#: ../../source/ensino.rst:10
+msgid "Engenharia Biomédica (atual)"
+msgstr ""
+
+#: ../../source/ensino.rst:12
+msgid ""
+"Instrumentação e Transdução Biomédica, Segurança Elétrica e Interferência "
+"Eletromagnética, Tecnologias Assistivas, Monitores de Parâmetros "
+"Fisiológicos e de Biopotenciais,  Sistemas de Auxílio ao Diagnóstico por "
+"Imagem."
+msgstr ""
+
+#: ../../source/ensino.rst:16
+msgid "Sistemas Digitais I, II e III (já ministrada)"
+msgstr ""
+
+#: ../../source/ensino.rst:18
+msgid ""
+"Funções, Otimizações e Tradeoffs, Multiplexadores e Demultiplexadores, "
+"Codificadores e Decodificadores, Aritmética Digital, Somadores e "
+"Comparadores, Multiplicadores e Subtratores, ULA, Circuitos Integrados, "
+"Sistemas de Lógica Programável."
+msgstr ""
+
+#: ../../source/ensino.rst:20
+msgid ""
+"Lógica Sequencial, Latch primitivo, Equações de Estado dos Flip-Flops, "
+"Máquina de Estados Finitos, Implementação, Otimizações e Tradeoffs, "
+"Registradores de Deslocamento, Contadores Síncronos, Projeto em Nível de "
+"Transferência entre Registradores, Redes de Petri Seguras, Regras de "
+"Evolução, Diagramas de marcação, Equações de Estado, Aplicações para "
+"Modelagem de Sistemas,  Sistemas de Lógica Programável, VHDL."
+msgstr ""
+
+#: ../../source/ensino.rst:22
+msgid ""
+"Redes de Petri Não Seguras, VHDL, Aplicações para Modelagem de Sistemas, "
+"Processadores Programáveis, Fluxo de Dados e Unidade de Controle, Projeto e "
+"Aplicações, Conversores A/D e D/A, Sistemas de Lógica Programável."
+msgstr ""
+
+#: ../../source/ensino.rst:26
+msgid "Laboratório de Eletrônica I (já ministrada)"
+msgstr ""
+
+#: ../../source/ensino.rst:28
+msgid ""
+"Características elétricas e modelos simplificados de diodo. Circuitos "
+"retificadores. Circuitos limitadores. grampeadores e dobrador de tensão. "
+"Transistores bipolares de junção. Modelos equivalentes. Polarização. "
+"Transistor como amplificador. Configurações. Transistor como chave."
+msgstr ""
+
+#: ../../source/ensino.rst:32
+msgid "Disciplina de Pós Graduação"
+msgstr ""
+
+#: ../../source/ensino.rst:36
+msgid "PEL 301 - Biopotenciais: Características, Aquisição e Processamento"
+msgstr ""
+
+#: ../../source/ensino.rst:38
+msgid ""
+"Origem dos potenciais elétricos originados no sistema biológico e suas "
+"características, especificamente Eletrocardiograma, Eletromiograma e "
+"Eletroencefalograma. Processo e instrumentação para aquisição, bem como "
+"aplicação de técnicas de processamento visando tratamento, extração de "
+"características e reconhecimento de padrões."
+msgstr ""
+
+#: ../../source/ensino.rst:42
+msgid "PEL 303 - Introdução à Engenharia Biomédica"
+msgstr ""
+
+#: ../../source/ensino.rst:44
+msgid ""
+"Instrumentação e Transdução de sinais Biológicos, Sistemas Cardiovascular,  "
+"e Eletrofisiologia,  Introdução à Biomecânica, Interfaces Homem-Máquina, "
+"Sistemas Neuromuscular, Auditivo e Visual e técnicas de Reabilitação,  "
+"Sistemas de Auxílio ao Diagnóstico por Imagem."
+msgstr ""
+
+#: ../../source/ensino.rst:48
+msgid "PEL 304 - Aplicações em Processamento de Sinais"
+msgstr ""
+
+#: ../../source/ensino.rst:50
+msgid ""
+"Sinais e sistemas discretos, Sinal de voz e reconhecimento automático de "
+"fala, Métodos numéricos aplicados em processamento de sinais, Aplicação das "
+"wavelets e seus aspectos computacionais, Reconhecimento de padrões em "
+"biopotenciais, Estudo cognitivo-comportamental de interfaces homem-máquina, "
+"Reconhecimento de objetos em imagens, Análise visual de cenas naturais, "
+"Computação em imagens médicas, Modelagem e reconstrução de faces."
+msgstr ""

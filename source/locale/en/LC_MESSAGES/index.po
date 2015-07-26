@@ -1,0 +1,126 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Maria Claudia Personal Page 0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-26 16:54-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/index.rst:7
+msgid "Maria Claudia Personal Page!"
+msgstr ""
+
+#: ../../source/index.rst:17
+msgid "Formação"
+msgstr ""
+
+#: ../../source/index.rst:19
+msgid ""
+"**Doutorado em Engenharia Elétrica com ênfase em Engenharia Biomédica pela "
+"Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de"
+" Campinas - FEEC / UNICAMP, Campinas em 2000.**"
+msgstr ""
+
+#: ../../source/index.rst:20
+msgid ""
+"Tese: `Desenvolvimento e Aplicação de um Sistema para Reabilitação "
+"Sensoriomotora de Membros Superiores Paralisados "
+"<http://www.bibliotecadigital.unicamp.br/document/?code=vtls000202800>`_."
+msgstr ""
+
+#: ../../source/index.rst:22
+msgid ""
+"**Mestrado em Engenharia Elétrica com ênfase em automação pela Faculdade de "
+"Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - "
+"FEEC / UNICAMP, Campinas em 1996.**"
+msgstr ""
+
+#: ../../source/index.rst:23
+msgid ""
+"Dissertação: `Uma Luva Instrumentalizada para Tetraplégicos "
+"<http://www.bibliotecadigital.unicamp.br/document/?code=vtls000104125>`_."
+msgstr ""
+
+#: ../../source/index.rst:25
+msgid ""
+"**Graduação em Engenharia Elétrica com ênfase em eletrônica pela Escola de "
+"Engenharia do Instituto Mauá de Tecnologia - IMT, São Caetano do Sul, em "
+"1992.**"
+msgstr ""
+
+#: ../../source/index.rst:27
+msgid "Currículo Lattes: http://lattes.cnpq.br/7429780004238103"
+msgstr "Curriculum Lattes: http://lattes.cnpq.br/7429780004238103"
+
+#: ../../source/index.rst:32
+msgid "Posição Atual"
+msgstr ""
+
+#: ../../source/index.rst:34
+msgid "Professor Adjunto I"
+msgstr ""
+
+#: ../../source/index.rst:35
+msgid "Dedicação em Tempo Integral"
+msgstr ""
+
+#: ../../source/index.rst:36 ../../source/index.rst:46
+msgid "Departamento de Engenharia Elétrica"
+msgstr ""
+
+#: ../../source/index.rst:37 ../../source/index.rst:45
+msgid "Centro Universitário da FEI"
+msgstr ""
+
+#: ../../source/index.rst:42
+msgid "Contato"
+msgstr "Contact"
+
+#: ../../source/index.rst:44
+msgid "Maria Claudia Ferrari de Castro"
+msgstr ""
+
+#: ../../source/index.rst:48
+msgid "Av. Humberto de A. C. Branco, 3.972"
+msgstr ""
+
+#: ../../source/index.rst:49
+msgid "São Bernardo do Campo - SP - Brasil"
+msgstr ""
+
+#: ../../source/index.rst:50
+msgid "09850-901"
+msgstr ""
+
+#: ../../source/index.rst:51
+msgid "Fone:(11)4353-2900    R.2224"
+msgstr ""
+
+#: ../../source/index.rst:53
+msgid "e-mail: mclaudia@fei.edu.br"
+msgstr ""
+
+#: ../../source/index.rst:56
+msgid "Contents:"
+msgstr ""
+
+#: ../../source/index.rst:69
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../source/index.rst:71
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:72
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../source/index.rst:73
+msgid ":ref:`search`"
+msgstr ""
