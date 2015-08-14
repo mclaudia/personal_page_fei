@@ -13,7 +13,7 @@ msgstr ""
 
 #: ../../source/index.rst:17
 msgid "Formação"
-msgstr ""
+msgstr "Graduation"
 
 #: ../../source/index.rst:19
 msgid ""
@@ -55,7 +55,7 @@ msgstr "Curriculum Lattes: http://lattes.cnpq.br/7429780004238103"
 
 #: ../../source/index.rst:32
 msgid "Posição Atual"
-msgstr ""
+msgstr "Actual Position"
 
 #: ../../source/index.rst:34
 msgid "Professor Adjunto I"
@@ -67,7 +67,7 @@ msgstr ""
 
 #: ../../source/index.rst:36 ../../source/index.rst:46
 msgid "Departamento de Engenharia Elétrica"
-msgstr ""
+msgstr "Department of Electrical Engineering"
 
 #: ../../source/index.rst:37 ../../source/index.rst:45
 msgid "Centro Universitário da FEI"
@@ -123,4 +123,4 @@ msgstr "Contents:"
 
 #: ../../source/index.rst:69
 msgid "Índices and tabelas"
-msgstr "Indices and tables"
+msgstr "Index and tables"
