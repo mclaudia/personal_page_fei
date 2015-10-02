@@ -62,6 +62,7 @@ Conteúdos:
    projetos
    orientacoes
    publicacoes
+   comitedeetica
 
 
 
