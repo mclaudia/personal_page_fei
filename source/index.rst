@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Maria Claudia - Página Pessoal!
-============================
+===============================
 
 .. image:: _static/mclaudia.jpg
    :height: 300 px
