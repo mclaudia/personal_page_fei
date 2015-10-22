@@ -22,6 +22,19 @@ Tutoriais
 :download:`Orientações de Submissão de Projeto de Pesquisa <_static/comite_etica/Plataforma_Submissao_ProjetodePesquisa.pdf>`
 
 
+---------------------
+Documentos Essenciais
+---------------------
+
+Abaixo estão os documentos essenciais que devem ser preenchidos para que a proposta seja encaminhada para o devido comitê de ética.
+
+Os documentos estão em formato ODT (Open Documento Format) compatível com os principais editores de texto.
+
+O preenchimento deve ser feito substituindo os trechos de texto que estão entre "[]" (substituir as [] inclusive)
+
+:download:`Modelo de Termo de Consentimento Livre e Esclarecido <_static/comite_etica/TermoConsentimento.odt>`
+
+
 ==================================
 Fapesp - Boas Práticas Científicas
 ==================================
