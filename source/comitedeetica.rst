@@ -9,6 +9,23 @@ A Plataforma Brasil é uma solução desenvolvida pelo Governo Brasileiro para c
 
 http://aplicacao.saude.gov.br/plataformabrasil/login.jsf
 
+Como se cadastrar:
+
+
+#. Fazer o cadastro como pesquisador para ter acesso à plataforma e/ou poder ser inserido em um grupo de pesquisa.
+
+#. Em caso de pesquisador preencher o formulário on line, lembrando que o professor deve ser sempre o responsável perante do Comitê. Além disso as informações do formulário devem ser as mesmas contidas no projeto detalhado.
+
+#. Inserir pelo menos os arquivos de Projeto Detalhado e de Termo de Consentimento Livre e Esclarecido (TCLE).
+
+#. Imprimir a folha de rosto que o sistema gera, o Prof. Responsável deve assinar e encaminhar para assinatura da Reitoria como representante da Instituição executora e financiadora.
+
+#. Scannear a folha de rosto e inserir o arquivo no sistema.
+
+#. Enviar para conferência do CONEP, que por sua vez irá distribuir para um Comitê de Ética em Pesquisa (CEP) que será responsável pela avaliação durante todo o período de vigência.
+
+#. Toda e qualquer comunicação, notificação e/ou alteração deverá ser feita através do sistema da Plataforma Brasil.
+
 ---------
 Tutoriais
 ---------
@@ -32,9 +49,10 @@ Os documentos estão em formato ODT (Open Documento Format) compatível com os p
 
 O preenchimento deve ser feito substituindo os trechos de texto que estão entre "[]" (substituir as [] inclusive)
 
-:download:`Modelo de Termo de Consentimento Livre e Esclarecido <_static/comite_etica/TermoConsentimento.odt>`
+:download:`Modelo de Termo de Consentimento Livre e Esclarecido <_static/comite_etica/TermoConsentimento.docx>`
 
-:download:`Modelo de Projeto para Aprovação do Comitê de Ética <_static/comite_etica/Projeto_Comite_Etica.odt>`
+:download:`Modelo de Projeto para Aprovação do Comitê de Ética <_static/comite_etica/Projeto_Comite_Etica.docx>`
+
 
 ==================================
 Fapesp - Boas Práticas Científicas
