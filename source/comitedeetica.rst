@@ -20,7 +20,7 @@ Principais Etapas:
 
 #. Imprimir a folha de rosto que o sistema gera, o Prof. Responsável deve assinar e encaminhar para assinatura da Reitoria como representante da Instituição executora e financiadora.
 
-#. Scannear a folha de rosto e inserir o arquivo, preferencialmente em formato pdf e com título sem espaço s e caracteres especiais, no sistema.
+#. Scannear a folha de rosto e inserir o arquivo, preferencialmente em formato pdf e com título sem espaços e caracteres especiais, no sistema.
 
 #. Enviar para conferência do CONEP, que por sua vez irá distribuir para um Comitê de Ética em Pesquisa (CEP) que será responsável pela avaliação durante todo o período de vigência.
 
