@@ -34,6 +34,7 @@ O preenchimento deve ser feito substituindo os trechos de texto que estão entre
 
 :download:`Modelo de Termo de Consentimento Livre e Esclarecido <_static/comite_etica/TermoConsentimento.odt>`
 
+:download:`Modelo de Projeto para Aprovação do Comitê de Ética <_static/comite_etica/Projeto_Comite_Etica.odt>`
 
 ==================================
 Fapesp - Boas Práticas Científicas
