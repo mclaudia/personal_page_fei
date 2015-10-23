@@ -49,9 +49,13 @@ Os documentos estão em formato ODT (Open Documento Format) compatível com os p
 
 O preenchimento deve ser feito substituindo os trechos de texto que estão entre "[]" (substituir as [] inclusive)
 
-:download:`Modelo de Termo de Consentimento Livre e Esclarecido <_static/comite_etica/TermoConsentimento.docx>`
+Termo de Consentimento:
+    :download:`Modelo de Termo de Consentimento Livre e Esclarecido (docx)<_static/comite_etica/TermoConsentimento.docx>`
 
-:download:`Modelo de Projeto para Aprovação do Comitê de Ética <_static/comite_etica/Projeto_Comite_Etica.docx>`
+Projeto para Aprovação do Comitê de Ética:
+    `Modelo de Projeto para Aprovação do Comitê de Ética (latex) <https://github.com/OpenFEI/ProjetoComitedeEtica_FEI>`_
+
+    :download:`Modelo de Projeto para Aprovação do Comitê de Ética (docx)<_static/comite_etica/Projeto_Comite_Etica.docx>`
 
 
 ==================================
