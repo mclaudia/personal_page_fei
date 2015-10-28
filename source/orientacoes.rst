@@ -25,7 +25,7 @@ Atuais
 Trabalhos de Conclusão de Curso (TCC)
 -------------------------------------
 
-Prótese Mioelétrica de Mão - Lucas Laurino Ortiz; Flávio Enrico Bergamaschi; Gizlainy Cardoso Airão;	Lais Lara Moreira Ribeiro	
+Prótese Mioelétrica de Mão - Lucas Laurino Ortiz; Flávio Enrico Bergamaschi; Gizlainy Cardoso Airão; Lais Lara Moreira Ribeiro	
 
 FITBELT: Sensores Vestíveis para a prática de exercícios físicos - Amandda Lima Paixão; Bianca Marcondelli; Rhaissa Nasser
 
@@ -38,11 +38,17 @@ Estimulador Neuromuscular Controlado Por voz - Caio Cesar de Souza Cruz; Eduardo
 Iniciações Científicas
 ----------------------
 
+Órtese servo asssitida para o controle dos tremores de Parkinson. - Wellington Cassio Pinheiro
+
+Órtese ativa para o auxílio no tratamento de pacientes hemiplégicos - Felipe Da Rocha Saraiva
+
+Investigação do uso de ABS condutivo e impressão 3D para o desenvolvimento de uma matriz de eletrodos - Julia Tauane Santos
+
 Aplicação com o Myo Gesture Control Armband System - Gabriel Doretto Morais
 
 Expansão e Atualização de um Estimulador Eletrotátil - Ítalo Fernandes da Silva
 
-Processamento de Imagens visando a Transmissão da Informação através de Display Eletrotátil - Lucas Almeida #. da Silva
+Processamento de Imagens visando a Transmissão da Informação através de Display Eletrotátil - Lucas Almeida da Silva
 
 Interface Háptica com Representação 3D de Objetos - Roberto Gonçalves de Magalhães Jr.
 
@@ -65,6 +71,7 @@ Estimulador Elétrico Neuromuscular para Restauração de Padrões de Preensão 
 
 Desenvolvimento de Estimulador Elétrico Neuromuscular para Membros Inferiores de oito canais Conjugado a um Equipamento de Suporte Técnico de Indivíduo - Rodrigo Galuzzi Garcia Piva
 
+Interface de Avaliação de Sistemas de Controle de Aquisição e Processamento de Dados de Eletromiografia - Bruno Daniel Cardoso Rodrigues
 
 ---------
 Doutorado
