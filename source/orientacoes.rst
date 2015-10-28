@@ -10,7 +10,7 @@ Concluídas
    :widths: 20, 5
 
     "Trabalhos de Conclusão de Curso (TCC) - Orientador", 34
-    "Trabalhos de Conclusão de Curso (TCC) - Co-Orientador", 03
+    "Trabalhos de Conclusão de Curso (TCC) - Co-Orientador", 05
     "Iniciações Científicas (IC)", 32
     "Iniciações Didáticas (ID)", 04
     "Mestrados - Orientador", 01
@@ -28,10 +28,6 @@ Trabalhos de Conclusão de Curso (TCC)
 Prótese Mioelétrica de Mão - Lucas Laurino Ortiz; Flávio Enrico Bergamaschi; Gizlainy Cardoso Airão; Lais Lara Moreira Ribeiro	
 
 FITBELT: Sensores Vestíveis para a prática de exercícios físicos - Amandda Lima Paixão; Bianca Marcondelli; Rhaissa Nasser
-
-Controle de Dispositivos Eletrônicos através de Contração Muscular - André Luiz Prado; Andrews Gabriel Werbiska Silva; Bruno Daniel Cardoso Rodrigues; Lucas Lemes Ignez; Universo Nunes Julião - Finalizado - 3o colocado no Inova FEI 1o sem. 2015
-
-Estimulador Neuromuscular Controlado Por voz - Caio Cesar de Souza Cruz; Eduardo dos Santos Martins; Paola Monteiro Rein - Finalizado - 6o colocado no Inova FEI 1o sem. 2015
 
 
 ----------------------
