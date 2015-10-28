@@ -5,9 +5,9 @@ Comitê de Ética em Pesquisa
 Plataforma Brasil
 =================
 
-A Plataforma Brasil é uma solução desenvolvida pelo Governo Brasileiro para centralizar o envio de projetos de pesquisa que envolvam seres humanos nos Comitês de Ética em todo o país.
+A `Plataforma Brasil <http://aplicacao.saude.gov.br/plataformabrasil/login.jsf>`_ é uma solução desenvolvida pelo Governo Brasileiro para centralizar o envio de projetos de pesquisa que envolvam seres humanos nos Comitês de Ética em todo o país.
 
-http://aplicacao.saude.gov.br/plataformabrasil/login.jsf
+
 
 Principais Etapas:
 
