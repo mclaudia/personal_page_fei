@@ -11,7 +11,7 @@ Concluídas
 
     "Trabalhos de Conclusão de Curso (TCC) - Orientador", 34
     "Trabalhos de Conclusão de Curso (TCC) - Co-Orientador", 03
-    "Iniciações Científicas (IC)", 31
+    "Iniciações Científicas (IC)", 32
     "Iniciações Didáticas (ID)", 04
     "Mestrados - Orientador", 01
     "Mestrados - Co-Orientador ", 01
@@ -55,8 +55,6 @@ Desenvolvimento de Sensories para Monitoração da Condição Fisiológica de um
 Estudo da Viabilidade do uso do Emotiv no Controle de uma Órtese de Braço através de Imagética Motora - Leonardo Contador Neves
 
 Interface Computacional Controlada por EEG - Felipe Alberto Capati
-
-Órtese Ativa de Cotovelo com Movimento por Servo Motor Controlodado por Eletromiografia - Wandyr da Silva Alves
 
 
 ---------
