@@ -67,10 +67,9 @@ Estimulador Elétrico Neuromuscular para Restauração de Padrões de Preensão 
 
 Desenvolvimento de Estimulador Elétrico Neuromuscular para Membros Inferiores de oito canais Conjugado a um Equipamento de Suporte Técnico de Indivíduo - Rodrigo Galuzzi Garcia Piva
 
-Desenvolvimento e Avaliação de Neuroestimuladores para Reabilitação Motora de Hemiplégicos - Bruno Ferreira Kague 
 
 ---------
 Doutorado
 ---------
 
-Experiências Tácteis no Reconhecimento de Objetos em Deficientes Visuais e o Mapeamento Cerebral - Lídia Takako Cachonis
+Arquitetura adaptativa para plataforma de processamento de acervos museológicos. - Rodrigo Prior Bechelli
