@@ -49,14 +49,16 @@ Os documentos estão em formato ODT (Open Documento Format) compatível com os p
 
 O preenchimento deve ser feito substituindo os trechos de texto que estão entre "[]" (substituir as [] inclusive)
 
-Termo de Consentimento:
-    :download:`Modelo de Termo de Consentimento Livre e Esclarecido (docx)<_static/comite_etica/TermoConsentimento.docx>`
-
 Projeto para Aprovação do Comitê de Ética:
     `Modelo de Projeto para Aprovação do Comitê de Ética (latex) <https://github.com/OpenFEI/ProjetoComitedeEtica_FEI>`_
 
     :download:`Modelo de Projeto para Aprovação do Comitê de Ética (docx)<_static/comite_etica/Projeto_Comite_Etica.docx>`
 
+Termo de Consentimento:
+    :download:`Modelo de Termo de Consentimento Livre e Esclarecido (docx)<_static/comite_etica/TermoConsentimento.docx>`
+
+Declaração de Responsabilidade:
+    :download:`Modelo de Declaração de Responsabilidade (docx)<_static/comite_etica/DeclaracaodeResponsabilidade.docx>`
 
 ==================================
 Fapesp - Boas Práticas Científicas
