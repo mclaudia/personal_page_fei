@@ -114,6 +114,12 @@ CASTRO, M. C. F.; CLIQUET JR, Alberto :download:`"Sistema de Monitoração da Fo
 Resumos em Congressos
 =====================
 
+
+WERBISKA, A., RODRIGUES, B. D. C., JULIAO, U. N., IGNEZ, L. L., SANTOS, A. L. P., PARRO, V. C.,
+LUCCHI, J. C., CASTRO, M. C. F. :download: `"Human Machine Interfaces by Means of Muscle Control" <_static/resumos/2015b_EMBC.pdf>`. In: Proceedings of the 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2015, Milan.
+
+ALVES, W. S.; CASTRO, M. C. F. :download:`"Myoelectric Dynamic Orthosis for the Elbow" <_static/resumos/2015a_EMBC.pdf>`. In: Proceedings of the 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2015, Milan.
+
 SOUZA, D. F. M.; CASTRO, M. C. F. :download:`“Estudo Eletroencefalográfico durante Imaginação de Movimentos” <_static/resumos/2014a_SICFEI.pdf>`. In: 4o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2014, São Bernardo do Campo, 2014. v. 1. p. 1.
 
 ALVES, W. S.; CASTRO, M. C. F. :download:`“Órtese Ativa de Cotovelo com Servo Motor Controlado por Eletromiografia” <_static/resumos/2014b_SICFEI.pdf>`. In: 4o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2014, São Bernardo do Campo, 2014. v. 1. p. 1.

@@ -11,7 +11,7 @@ Concluídas
 
     "Trabalhos de Conclusão de Curso (TCC) - Orientador", 34
     "Trabalhos de Conclusão de Curso (TCC) - Co-Orientador", 05
-    "Iniciações Científicas (IC)", 32
+    "Iniciações Científicas (IC)", 33
     "Iniciações Didáticas (ID)", 04
     "Mestrados - Orientador", 01
     "Mestrados - Co-Orientador ", 01
@@ -27,7 +27,7 @@ Trabalhos de Conclusão de Curso (TCC)
 
 Prótese Mioelétrica de Mão - Lucas Laurino Ortiz; Flávio Enrico Bergamaschi; Gizlainy Cardoso Airão; Lais Lara Moreira Ribeiro	
 
-FITBELT: Sensores Vestíveis para a prática de exercícios físicos - Amandda Lima Paixão; Bianca Marcondelli; Rhaissa Nasser
+CINTA FITBELT: Tecnologia vestível voltada para a prática de exercícios físicos - Amandda Lima Paixão; Bianca Marcondelli; Rhaissa Nasser
 
 
 ----------------------
@@ -67,7 +67,6 @@ Estimulador Elétrico Neuromuscular para Restauração de Padrões de Preensão 
 
 Desenvolvimento de Estimulador Elétrico Neuromuscular para Membros Inferiores de oito canais Conjugado a um Equipamento de Suporte Técnico de Indivíduo - Rodrigo Galuzzi Garcia Piva
 
-Interface de Avaliação de Sistemas de Controle de Aquisição e Processamento de Dados de Eletromiografia - Bruno Daniel Cardoso Rodrigues
 
 ---------
 Doutorado
