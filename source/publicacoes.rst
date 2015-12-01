@@ -114,26 +114,26 @@ CASTRO, M. C. F.; CLIQUET JR, Alberto :download:`"Sistema de Monitoração da Fo
 Resumos em Congressos
 =====================
 
-SILVA, I. F., CASTRO, M. C. F. "Expansão e atualização de um Estimulador Eletrotátil"  In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
+SILVA, I. F., CASTRO, M. C. F. :download:`"Expansão e atualização de um Estimulador Eletrotátil" <_static/resumos/2015_Italo_VSICFEI.pdf>`. In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
 
-FALSIN NETO, E., CASTRO, M. C. F. "Prototipagem rápida em três dimensões de próteses de mão" In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
+FALSIN NETO, E., CASTRO, M. C. F. :download:`"Prototipagem rápida em três dimensões de próteses de mão" <_static/resumos/2015_Elidio_VSICFEI.pdf>`. In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
 
-SILVA, L. A. V., CASTRO, M. C. F. "Processamento de Imagens visando a transmissão da informação através de Display Eletrotátil"  In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
+SILVA, L. A. V., CASTRO, M. C. F. :download:`"Processamento de Imagens visando a transmissão da informação através de Display Eletrotátil" <_static/resumos/2015_LucasA_VSICFEI.pdf>`.  In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
 
-MAGALHAES JUNIOR, R. G., CASTRO, M. C. F. "Interface Háptica com representação 3D de objetos"  In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
+MAGALHAES JUNIOR, R. G., CASTRO, M. C. F. :download:`"Interface Háptica com representação 3D de objetos" <_static/resumos/2015_Roberto_VSICFEI.pdf>`. In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
 
-NEVES, L. C., CASTRO, M. C. F. "Estudo da Viabilidade do uso do Emotiv no Controle de uma Órtese de Braço através de Imagética Motora"  In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
+NEVES, L. C., CASTRO, M. C. F. :download:`"Estudo da Viabilidade do uso do Emotiv no Controle de uma Órtese de Braço através de Imagética Motora" <_static/resumos/2015_Leonardo_VSICFEI.pdf>`. In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
 
-MORAIS, G. D., CASTRO, M. C. F. "Aplicação com o Myo Gesture Control Armband System"  In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
+MORAIS, G. D., CASTRO, M. C. F. :download:`"Controle de interface robótica através de sinais mioelétricos" <_static/resumos/2015_Doretto_VSICFEI.pdf>`. In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
 
-SANTOS, L. G., CASTRO, M. C. F. "Sensores para um exoesqueleto"  In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
+SANTOS, L. G., CASTRO, M. C. F. :download:`"Sensores para um exoesqueleto" <_static/resumos/2015_LucasG_VSICFEI.pdf>`. In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
 
-DIAS, A. L. S., CASTRO, M. C. F. "Desenvolvimento de sensores para monitoração da condição fisiológica de um atleta"  In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
+DIAS, A. L. S., CASTRO, M. C. F. :download:`"Desenvolvimento de sensores para monitoração da condição fisiológica de um atleta" <_static/resumos/2015_Andressa_VSICFEI.pdf>`. In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
 
-CAPATI, F. A., BECHELLI, R. P., CASTRO, M. C. F. "Interface Computacional Controlada por EEG"  In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
+CAPATI, F. A., BECHELLI, R. P., CASTRO, M. C. F. :download:`"Interface Cérebro Computador Híbrida Controlada por Potenciais Evocados Visuais" <_static/resumos/2015_Felipe_VSICFEI.pdf>`. In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
 
 WERBISKA, A., RODRIGUES, B. D. C., JULIAO, U. N., IGNEZ, L. L., SANTOS, A. L. P., PARRO, V. C.,
-LUCCHI, J. C., CASTRO, M. C. F. :download: `"Human Machine Interfaces by Means of Muscle Control" <_static/resumos/2015b_EMBC.pdf>`. In: Proceedings of the 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2015, Milan.
+LUCCHI, J. C., CASTRO, M. C. F. :download:`"Human Machine Interfaces by Means of Muscle Control" <_static/resumos/2015b_EMBC.pdf>`. In: Proceedings of the 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2015, Milan.
 
 ALVES, W. S.; CASTRO, M. C. F. :download:`"Myoelectric Dynamic Orthosis for the Elbow" <_static/resumos/2015a_EMBC.pdf>`. In: Proceedings of the 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2015, Milan.
 
