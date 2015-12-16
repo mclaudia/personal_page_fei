@@ -45,7 +45,7 @@ Documentos Essenciais
 
 Abaixo estão os documentos essenciais que devem ser preenchidos para que a proposta seja encaminhada para o devido comitê de ética.
 
-Os documentos estão em formato ODT (Open Documento Format) compatível com os principais editores de texto.
+Os documentos estão em formato Word compatível com os principais editores de texto.
 
 O preenchimento deve ser feito substituindo os trechos de texto que estão entre "[]" (substituir as [] inclusive)
 
