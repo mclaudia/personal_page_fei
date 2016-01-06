@@ -45,10 +45,9 @@ Contato
 | Centro Universitário da FEI
 | Departamento de Engenharia Elétrica
 |
-| Av. Humberto de A. C. Branco, 3.972
-| São Bernardo do Campo - SP - Brasil
-| 09850-901
-| Fone:(11)4353-2900    R.2224
+| Av. Humberto de A. C. Branco, 3.972, 09850-901
+| São Bernardo do Campo - São Paulo - Brasil
+| Fone: (11) 4353-2900 R.2224
 |
 | e-mail: mclaudia@fei.edu.br  
 |
