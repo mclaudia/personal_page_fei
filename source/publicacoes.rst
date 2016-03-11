@@ -42,6 +42,10 @@ Artigos em Congresso
 ====================
 
 
+MORAIS, G. D. ; NEVE, L. C. ; MASIERO, A. A. ; CASTRO, M. C. F. . Application of Myo armband system to control a robot interface. In: 9th International Conference on Bio-inspired Systems and Signal Processing - BIOSIGNALS 2016, 2016, Roma. BIOSTEC 2016 - 9th International Joint Conference on Biomedical Engineering Systems and Technologies. Portugal: SCITEPRESS - Science and and Technology Publications, 2016. v. 4. p. 227-231.
+
+CAPATI, F. A. ; BECHELLI, R. P. ; CASTRO, M. C. F. . Hybrid SSVEP/P300 BCI Keyboard - Controlled by Visual Evoked Potential. In: 9th International Conference on Bio-inspired Systems and Signal Processing - BIOSIGNALS 2016, 2016, Roma. BIOSTEC 2016 - 9th Joint Conference on Biomedical Engineering Systems and Technologies. Portugal: SCITEPRESS - Science and and Technology Publications, 2016. v. 4. p. 214-218.
+
 GUILLEN, K. C.; FEITOSA, F. C.; NASCIMENTO, P. M.; VINHA, R. N.; CASTRO, M. C. F.; BENKO, P. L. “Estimulador Eletrotátil para a Percepção Tátil” In: XXIV CBEB - Congresso Brasileiro de Engenharia Biomédica, 2014, Uberlândia. v. 1. p. 1241-1244. http://www.canal6.com.br/cbeb/2014/artigos/cbeb2014_submission_367.pdf
 
 CASTRO, M. C. F.; GERAB, F. “A Different Statistical Approach aiming at EEG Parameter Investigation for Brain Machine Interface Use” In: 7 th International Conference on Bio-inspired Systems and Signal Processing, 2014, Angers. . SciTePress – Science and Technology Publications, 2014. v.1. p.244 – 250. DOI: http://dx.doi.org/10.5220/0004804602440250
@@ -113,6 +117,11 @@ CASTRO, M. C. F.; CLIQUET JR, Alberto :download:`"Sistema de Monitoração da Fo
 =====================
 Resumos em Congressos
 =====================
+
+
+ALVES, W. S. ; CASTRO, MARIA CLAUDIA F. . Myoelectric Dynamic Orthosis for the Elbow. In: 37th Annual International Conference of the IEEE ENgineering in Medicine and Biology Society, 2015, Milan. Proceedings of the 37th Annual International Conference of the IEEE ENgineering in Medicine and Biology Society, 2015. v. 1. p. 1-1.
+
+WERBISKA, A. ; RODRIGUES, B. D. C. ; JULIAO, U. N. ; IGNEZ, L. L. ; SANTOS, A. L. P. ; PARRO, V. C. ; LUCCHI, J. C. ; CASTRO, MARIA CLAUDIA F . Human Machine Interfaces by Means of Muscle Control. In: 37TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY, 2015, Milan. Proceedings of the 37th Annual International Conference of the IEEE Engineering in Medicine and Biology, 2015. v. 1. p. 1-1.
 
 SILVA, I. F., CASTRO, M. C. F. :download:`"Expansão e atualização de um Estimulador Eletrotátil" <_static/resumos/2015_Italo_VSICFEI.pdf>`. In: 5o SICFEI - Simpósio de Iniciação Científica, Didática e de Ações Sociais de Extensão da FEI, 2015, São Bernardo do Campo, 2015. v. 1. p. 1.
 

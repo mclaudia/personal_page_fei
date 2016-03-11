@@ -9,9 +9,9 @@ Concluídas
    :header: "Descrição", "Quantidade"
    :widths: 20, 5
 
-    "Trabalhos de Conclusão de Curso (TCC) - Orientador", 34
+    "Trabalhos de Conclusão de Curso (TCC) - Orientador", 36
     "Trabalhos de Conclusão de Curso (TCC) - Co-Orientador", 05
-    "Iniciações Científicas (IC)", 33
+    "Iniciações Científicas (IC)", 34
     "Iniciações Didáticas (ID)", 04
     "Mestrados - Orientador", 01
     "Mestrados - Co-Orientador ", 01
@@ -25,10 +25,9 @@ Atuais
 Trabalhos de Conclusão de Curso (TCC)
 -------------------------------------
 
-Prótese Mioelétrica de Mão - Lucas Laurino Ortiz; Flávio Enrico Bergamaschi; Gizlainy Cardoso Airão; Lais Lara Moreira Ribeiro	
+SyncOpenHand - Neuro-Estimulador para Reabilitação Motora da Mão de Hemiplégicos
 
-CINTA FITBELT: Tecnologia vestível voltada para a prática de exercícios físicos - Amandda Lima Paixão; Bianca Marcondelli; Rhaissa Nasser
-
+Eletroestimulação funcional aplicada a supressão dos tremores de Parkinson
 
 ----------------------
 Iniciações Científicas
@@ -41,10 +40,6 @@ Iniciações Científicas
 Investigação do uso de ABS condutivo e impressão 3D para o desenvolvimento de uma matriz de eletrodos - Julia Tauane Santos
 
 Aplicação com o Myo Gesture Control Armband System - Gabriel Doretto Morais
-
-Expansão e Atualização de um Estimulador Eletrotátil - Ítalo Fernandes da Silva
-
-Processamento de Imagens visando a Transmissão da Informação através de Display Eletrotátil - Lucas Almeida da Silva
 
 Interface Háptica com Representação 3D de Objetos - Roberto Gonçalves de Magalhães Jr.
 
@@ -65,7 +60,12 @@ Mestrados
 
 Estimulador Elétrico Neuromuscular para Restauração de Padrões de Preensão de Tetraplégicos - Renato Gomes Barelli
 
-Desenvolvimento de Estimulador Elétrico Neuromuscular para Membros Inferiores de oito canais Conjugado a um Equipamento de Suporte Técnico de Indivíduo - Rodrigo Galuzzi Garcia Piva
+Projeto de um eletroencefálografo de 32 Canais - Benjamin Abdala Neto
+
+Desenvolvimento de sistema de controle para prótese de mão através de eletromiograma (EMG) - Mariângela Rolfini
+
+Aplicação Clínica - Lucas Argentim
+
 
 
 ---------
