@@ -72,4 +72,4 @@ Aplicação Clínica - Lucas Argentim
 Doutorado
 ---------
 
-Arquitetura adaptativa para plataforma de processamento de acervos museológicos. - Rodrigo Prior Bechelli
+Interface cérebro computador para classificação de banco de imagens de acervos museológicos. - Rodrigo Prior Bechelli
