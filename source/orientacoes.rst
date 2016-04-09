@@ -72,4 +72,4 @@ Aplicação Clínica - Lucas Argentim
 Doutorado
 ---------
 
-Interface cérebro computador para classificação de banco de imagens de acervos museológicos. - Rodrigo Prior Bechelli
+Interface Cérebro-Computador para classificação de banco de imagens de acervos museológicos. - Rodrigo Prior Bechelli
