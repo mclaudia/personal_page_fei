@@ -21,6 +21,16 @@ Maria Claudia Ferrari de Castro (Responsável)
 
 Financiador(es): Centro Universitário da FEI - FEI desde 2011
 
+==========================================================================================
+Restauração de padrões de Movimentos com a Aplicação de Estimulação Elétrica Neuromuscular
+==========================================================================================
+
+A aplicação de baixos níveis de corrente, em uma sequência e temporização adequadas, em músculos apropriados, é capaz de restaurar artificialmente padrões de movimento de membros paralizados.
+
+Maria Claudia Ferrari de Castro (Responsável)
+
+Financiador(es): Centro Universitário da FEI - FEI desde 2005
+
 =======================================================================================================================================================
 Avaliação Comparativa de Cadeiras de Rodas com Propulsão Manual, Híbrida e Motorizada do Ponto de Vista Biomecânico e de  Interface com o Usuário
 =======================================================================================================================================================

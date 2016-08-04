@@ -10,9 +10,9 @@ Totais
    :widths: 20, 5
 
     "Artigos em Periódicos", 08
-    "Artigos em Congressos", 21
+    "Artigos em Congressos", 23
     "Resumos expandidos em Congressos", 09
-    "Resumos em Congressos", 64
+    "Resumos em Congressos", 66
 
 
 =====================
@@ -42,9 +42,9 @@ Artigos em Congresso
 ====================
 
 
-MORAIS, G. D. ; NEVE, L. C. ; MASIERO, A. A. ; CASTRO, M. C. F. . Application of Myo armband system to control a robot interface. In: 9th International Conference on Bio-inspired Systems and Signal Processing - BIOSIGNALS 2016, 2016, Roma. BIOSTEC 2016 - 9th International Joint Conference on Biomedical Engineering Systems and Technologies. Portugal: SCITEPRESS - Science and and Technology Publications, 2016. v. 4. p. 227-231.
+MORAIS, G. D. ; NEVE, L. C. ; MASIERO, A. A. ; CASTRO, M. C. F. :download:`"Application of Myo armband system to control a robot interface" <_static/completos/2016_BIOSIGNALS_44.pdf>`. In: 9th International Conference on Bio-inspired Systems and Signal Processing - BIOSIGNALS 2016, 2016, Roma. BIOSTEC 2016 - 9th International Joint Conference on Biomedical Engineering Systems and Technologies. Portugal: SCITEPRESS - Science and Technology Publications, 2016. v. 4. p. 227-231.
 
-CAPATI, F. A. ; BECHELLI, R. P. ; CASTRO, M. C. F. . Hybrid SSVEP/P300 BCI Keyboard - Controlled by Visual Evoked Potential. In: 9th International Conference on Bio-inspired Systems and Signal Processing - BIOSIGNALS 2016, 2016, Roma. BIOSTEC 2016 - 9th Joint Conference on Biomedical Engineering Systems and Technologies. Portugal: SCITEPRESS - Science and and Technology Publications, 2016. v. 4. p. 214-218.
+CAPATI, F. A. ; BECHELLI, R. P. ; CASTRO, M. C. F. :download:`"Hybrid SSVEP/P300 BCI Keyboard - Controlled by Visual Evoked Potential" <_static/completos/2016_BIOSIGNALS_40.pdf>`. In: 9th International Conference on Bio-inspired Systems and Signal Processing - BIOSIGNALS 2016, 2016, Roma. BIOSTEC 2016 - 9th Joint Conference on Biomedical Engineering Systems and Technologies. Portugal: SCITEPRESS - Science and  Technology Publications, 2016. v. 4. p. 214-218.
 
 GUILLEN, K. C.; FEITOSA, F. C.; NASCIMENTO, P. M.; VINHA, R. N.; CASTRO, M. C. F.; BENKO, P. L. “Estimulador Eletrotátil para a Percepção Tátil” In: XXIV CBEB - Congresso Brasileiro de Engenharia Biomédica, 2014, Uberlândia. v. 1. p. 1241-1244. http://www.canal6.com.br/cbeb/2014/artigos/cbeb2014_submission_367.pdf
 

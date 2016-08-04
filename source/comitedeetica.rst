@@ -14,7 +14,7 @@ Principais Etapas:
 
 #. Fazer o cadastro como pesquisador para ter acesso à plataforma e/ou poder ser inserido em um grupo de pesquisa.
 
-#. Em caso de pesquisador preencher o formulário on line, lembrando que o professor deve ser sempre o responsável perante do Comitê. Além disso as informações do formulário devem ser as mesmas contidas no projeto detalhado.
+#. Em caso de pesquisador preencher o formulário on line, lembrando que o professor deve ser sempre o responsável perante do Comitê. Além disso, as informações do formulário devem ser as mesmas contidas no projeto detalhado.
 
 #. Inserir pelo menos os arquivos de Projeto Detalhado e de Termo de Consentimento Livre e Esclarecido (TCLE), preferencialmente em formato pdf, e com título sem espaços e caracteres especiais.
 
@@ -25,6 +25,8 @@ Principais Etapas:
 #. Enviar para conferência do CONEP, que por sua vez irá distribuir para um Comitê de Ética em Pesquisa (CEP) que será responsável pela avaliação durante todo o período de vigência.
 
 #. Toda e qualquer comunicação, notificação e/ou alteração deverá ser feita através do sistema da Plataforma Brasil.
+
+#. Ficar atento quanto às datas de encaminhamento de Relatórios Parciais e Finais. Os mesmos devem ser acompanhados de um formulário.
 
 ---------
 Tutoriais
@@ -60,6 +62,10 @@ Termo de Consentimento:
 Declaração de Responsabilidade:
     :download:`Modelo de Declaração de Responsabilidade (docx)<_static/comite_etica/DeclaracaodeResponsabilidade.docx>`
 
+Formulário de Encaminhamento de Relatório:
+	:download:`Formulário a ser preenchido e encaminhado juntamente com o relatório (docx)<_static/comite_etica/formulario_relatorio_pesquisa.docx.`
+
+	
 ==================================
 Fapesp - Boas Práticas Científicas
 ==================================
