@@ -49,7 +49,7 @@ Estudo e aplicação da família do CI ADS1292
 
 Estudo e aplicação do Eletromyografo Delsys
 
-Estudo e aplicação do Eletroencefalógrafo Blue32
+Estudo e aplicação do Eletroencefalógrafo iBlue52
 
 
 
