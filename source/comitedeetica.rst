@@ -63,7 +63,7 @@ Declaração de Responsabilidade:
     :download:`Modelo de Declaração de Responsabilidade (docx)<_static/comite_etica/DeclaracaodeResponsabilidade.docx>`
 
 Formulário de Encaminhamento de Relatório:
-	:download:`Formulário a ser preenchido e encaminhado juntamente com o relatório (docx)<_static/comite_etica/formulario_relatorio_pesquisa.docx.`
+	:download:`Formulário a ser preenchido e encaminhado juntamente com o relatório (docx)<_static/comite_etica/formulario_relatorio_pesquisa.docx>`
 
 	
 ==================================
